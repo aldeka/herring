@@ -10,7 +10,7 @@ psycopg2==2.6.1
 pyOpenSSL==0.15
 requests==2.8.1
 static3==0.6.1
-urllib3==1.12
+urllib3==1.26.5
 celery[redis]
 django-autoslug
 django-celery
